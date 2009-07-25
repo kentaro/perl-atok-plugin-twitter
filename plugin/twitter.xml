@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plugin_info>
+  <name>ATOK::Plugin::Twitter</name>
+  <name_short>Twitter</name_short>
+  <description>ATOKダイレクトを利用して、Twitterのタイムラインを取得・表示します。</description>
+  <copyright>@kentaro (http://twitter.com/kentaro)</copyright>
+  <major_version>1</major_version>
+  <minor_version>0</minor_version>
+</plugin_info>
