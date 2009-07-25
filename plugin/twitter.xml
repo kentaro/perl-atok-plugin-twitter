@@ -5,5 +5,5 @@
   <description>ATOKダイレクトを利用して、Twitterのタイムラインを取得・表示します。</description>
   <copyright>@kentaro (http://twitter.com/kentaro)</copyright>
   <major_version>1</major_version>
-  <minor_version>0</minor_version>
+  <minor_version>1</minor_version>
 </plugin_info>
