@@ -74,7 +74,7 @@ sub user {
 
 sub url {
     my $self = shift;
-    sprintf 'http://twitter.com/%s/%d', $self->user->screen_name, $self->id;
+    sprintf 'http://twitter.com/%s/status/%s', $self->user->screen_name, $self->id;
 }
 
 sub to_hash {

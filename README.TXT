@@ -6,6 +6,7 @@
 - Template
 - Config::Pit
 - Net::Twitter
+- Class::Accessor::Lvalue
 
 また、これらのモジュールは、Mac OSX付属のPerl(/usr/bin/perl)によってロー
 ドできる場所にインストールされている必要があります。Mac Portsの
